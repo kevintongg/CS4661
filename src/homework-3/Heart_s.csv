@@ -86,7 +86,6 @@ Age,Gender,ChestPain,RestBP,Chol,RestECG,MaxHR,Oldpeak,Thal,AHD
 52,f,nontypical,120,325,0,172,0.2,normal,No
 44,f,nonanginal,140,235,2,180,0,normal,No
 47,f,nonanginal,138,257,2,156,0,normal,No
-53,m,nonanginal,128,216,2,115,0,NA,No
 53,m,asymptomatic,138,234,2,160,0,normal,No
 51,m,nonanginal,130,256,2,149,0.5,normal,No
 66,f,asymptomatic,120,302,2,151,0.4,normal,No
@@ -265,7 +264,6 @@ Age,Gender,ChestPain,RestBP,Chol,RestECG,MaxHR,Oldpeak,Thal,AHD
 44,f,nonanginal,120,226,0,169,0,normal,No
 61,f,asymptomatic,138,166,2,125,3.6,normal,Yes
 42,f,asymptomatic,136,315,0,125,1.8,fixed,Yes
-52,f,asymptomatic,128,204,0,156,1,NA,Yes
 59,f,nonanginal,126,218,0,134,2.2,fixed,Yes
 40,f,asymptomatic,152,223,0,181,0,reversable,Yes
 42,f,nonanginal,130,180,0,150,0,normal,No
